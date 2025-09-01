@@ -8,7 +8,10 @@ Dữ liệu trong bộ ba báo cáo này được cung cấp bởi **Solomon**, 
 - Phân tích theo sản phẩm và nhóm sản phẩm
 - Đánh giá doanh thu theo khu vực địa lý
 
+Dữ liệu được cung cấp : https://drive.google.com/drive/folders/1lX7l7uo34qwyC0ZR-RJaokuTRht3y8p_
+
 Tôi đã thực hiện toàn bộ quy trình từ xử lý dữ liệu, thiết kế dashboard, đến trực quan hóa và phân tích theo yêu cầu thực tế của doanh nghiệp.
+
 
 ---
 
